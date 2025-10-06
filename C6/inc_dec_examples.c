@@ -13,6 +13,7 @@ int main(void)
     a = ++b;    // b is now 4, a is also 4
     a = b++;    // a is 4, b is now 5, 
     
+    
     // Decrement operators (reset a back to 3)
     b = 3;
     a = b--;    // a is 3, b is now 2    
